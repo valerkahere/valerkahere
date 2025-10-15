@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.valerkahere.com/">
-    <img src="https://www.valerkahere.com/assets/00_logo/logo-colon.svg" alt="A personal logo, saying 'valerka is here'. See my portfolio site for updates by clicking the image!" width="400">
+    <img src="https://www.valerkahere.com/assets/00_logo/logo-colon.svg" alt="A personal logo, saying 'valerka is here'. See my portfolio site for updates by clicking the image!" width="50%">
   </a>
 </p>
 
