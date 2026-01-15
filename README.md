@@ -23,7 +23,7 @@
 
 ## What I do?
 
-My career is a story of two worlds. On one hand, I'm a developer obsessed with building clean, logical solutions for the Web with HTML, CSS and Javascript. On the other, I'm a professional interpreter thriving on the precision required in high-stakes legal settings like courtrooms and tribunals.
+My career is a story of two worlds. On one hand, I'm a developer obsessed with building clean, logical solutions for the Web with Astro, HTML, CSS and Javascript. On the other, I'm a professional interpreter thriving on the precision required in high-stakes legal settings like courtrooms and tribunals.
 
 I believe the same core skills drive success in both fields: a meticulous attention to detail, clarity under pressure, and the ability to bridge complex communication gaps. The only difference is the type of syntax error you're trying to prevent.
 
