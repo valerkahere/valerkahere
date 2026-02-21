@@ -6,26 +6,19 @@
   </a>
 </div>
 
-
 <h3 align="center">
-  See my
-  <em>best projects</em>
-  on my
+Proud to be
+<br>
+<a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
+🏆"Portfolio of the Week" Winner at Scrimba🏆
+</a>
 </h3>
-<p align="center">
-  <a href="https://www.valerkahere.com/" style="text-decoration: none; width:50%;">
-      <img src="https://img.shields.io/badge/portfolio-FE6E00?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
 
-<h3 align="center">
-  <em>Connect</em> with me on
-</h3>
-<p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/valerkahere/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
+    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="See Scrimba Newsletter where my portfolio is featured as Portfolio of the Week" width="60%" />
   </a>
-</p>
+</div>
 
 <h3 align="center">
   Looking to apply
@@ -38,32 +31,16 @@
 </h3>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
-    <img style="border-radius:8px;" src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Watch the video" width="60%" />
+    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Watch the video" width="60%" />
   </a>
 </div>
-
-<h3 align="center">
-Proud to be
-<br>
-<a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
-🏆"Portfolio of the Week" Winner at Scrimba🏆
-</a>
-</h3>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
-    <img style="border-radius:8px;" src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="See Scrimba Newsletter where my portfolio is featured as Portfolio of the Week" width="60%" />
-  </a>
-</div>
-
-  
 
 ## So, who am I?
 <h4 align="center" >Design Engineer | Aspiring Open Source Contributor | Software Development Student</h4>
 
 
 
--   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of [![Google Summer of Code](https://img.shields.io/badge/GSoC%20Program-F9AB00?logo=googlesummerofcode&logoColor=black)](https://summerofcode.withgoogle.com/)
+-   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of [![Google Summer of Code](https://img.shields.io/badge/GSoC%20Program-black?logo=googlesummerofcode&logoColor=F9AB00)](https://summerofcode.withgoogle.com/)
 - 💫**Result**: [my first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
 -   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular!
 -   🎙️ **Work:** A *freelance Interpreter* at Translit, ensuring nothing gets lost in translation.
@@ -85,6 +62,10 @@ I also believe in *power of free education and software*, which led me to starti
 
 
 ### My Tools & Areas of Expertise
+
+> [!NOTE]
+> In this table CSS and JS Frameworks columns **are matching**.
+> That is, with Bootstrap for CSS I use Angular for JS, and so on.
 
 | Front-end Workflow | CSS Frameworks | JS Frameworks | Desktop Apps | Environment & Tools |
 | :--- | :--- | :--- | :--- | :--- |
@@ -108,3 +89,26 @@ You'll find my main projects pinned below, but here are the highlights:
 ### Random Thought 🧠
 
 A syntax error in C# gives you a compiler warning. A "syntax error" in a courtroom... well, the consequences are a bit different. It's taught me to be *very* careful with my logic.
+
+### Links
+
+<h3 align="center">
+  See my
+  <em>best projects</em>
+  on my
+</h3>
+<p align="center">
+  <a href="https://www.valerkahere.com/" style="text-decoration: none; width:50%;">
+      <img src="https://img.shields.io/badge/portfolio-FE6E00?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">
+  <em>Connect</em> with me on
+</h3>
+<p align="center" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/valerkahere/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
