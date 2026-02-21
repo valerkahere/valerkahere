@@ -59,14 +59,12 @@ Proud to be
   
 
 ## So, who am I?
-<h3 align="center" >Design Engineer | Aspiring Open Source Contributor | Software Development Student</h3>
+<h4 align="center" >Design Engineer | Aspiring Open Source Contributor | Software Development Student</h4>
 
 
 
--   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of
-
-- [![Google Summer of Code](https://img.shields.io/badge/GSoC%20Program-F9AB00?style=for-the-badge&logo=googlesummerofcode&logoColor=black)](https://summerofcode.withgoogle.com/)
-- As a result, [my first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
+-   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of [![Google Summer of Code](https://img.shields.io/badge/GSoC%20Program-F9AB00?logo=googlesummerofcode&logoColor=black)](https://summerofcode.withgoogle.com/)
+- 💫**Result**: [my first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
 -   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular!
 -   🎙️ **Work:** A *freelance Interpreter* at Translit, ensuring nothing gets lost in translation.
 -   🌱 **Learning:** Always diving deeper into Front End at [Scrimba](https://scrimba.com/?via=u430bb90), learning how to build modern and accessible UIs, therefore creating satisfying UXs.
@@ -84,63 +82,24 @@ I also believe in *power of free education and software*, which led me to starti
 
 
 ---
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-#302E31
-vercel
-
-#F38020
 
 
+### My Tools & Areas of Expertise
 
-
-Hosting and Domain Configuration
-![Cloudflare](https://img.shields.io/badge/cloudfare-grey?style=for-the-badge&logo=cloudflare&logoColor)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-CSS Frameworks I develop with
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-
-
-![handlebarsdotjs](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-
-
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-### My Tools and Expertise
-
-| Front-end Workflow |  Environment & Tools | Desktop Apps |
-| :--- | :--- | :--- |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) | |
-| ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge) |
-| ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |  |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)| |
+| Front-end Workflow | CSS Frameworks | JS Frameworks | Desktop Apps | Environment & Tools |
+| :--- | :--- | :--- | :--- | :--- |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   |
+| ![CSS3](https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white) | ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![handlebarsdotjs](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)   | ![.NET](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge) | ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)|
+| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)|  | | | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)  |
 
 ---
 
-### See My Work
+### Explore My Work
 
 You'll find my main projects pinned below, but here are the highlights:
 
-- [**Velouross — Custom Brand Website**](https://www.velouross.com/): The powerfulness of Figma-to-Code workflow. Clean Figma prototype with close communication with designer: from idea to implementation *in just 2 days*.
+- [**Velouross — Custom Brand Website**](https://www.velouross.com/): The powerfulness of Figma-to-Code workflow. Clean Figma prototype thanks to close communication with designer: from idea to implementation *in just 2 days*.
 -   [**Automated Media File Sorter**](https://github.com/valerkahere/sorter): Tired of a chaotic photo folder? I wrote a powerful Bash script that leverages `ExifTool` to sort thousands of files chronologically in seconds.
 -   [**OOP Fleet Management System**](https://github.com/valerkahere/OOP-Fleet-Management-System): An exploration into the depths of Object-Oriented Programming, building a complete vehicle management system from the ground up in C#.
 
