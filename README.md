@@ -111,4 +111,12 @@ A syntax error in C# gives you a compiler warning. A "syntax error" in a courtro
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<h3 align="center">
+  Download my
+</h3>
+<div align="center" style="text-decoration: none;">
+  <a href="https://github.com/valerkahere/valerkahere/blob/dev/assets/Valerii-Navalnyi-CV.pdf" download="Valerii-Navalnyi-CV" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CV-44cc11?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
 
