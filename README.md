@@ -8,7 +8,9 @@
 
 
 <h4 align="center">
-  See my <strong>best projects</strong> on my
+  See my
+  <b>best projects</b>
+  on my
 </h4>
 <p align="center">
   <a href="https://www.valerkahere.com/" style="text-decoration: none; width:50%;">
@@ -17,7 +19,7 @@
 </p>
 
 <h4 align="center">
-  <strong>Connect</strong> with me on
+  <b>Connect</b> with me on
 </h4>
 <p align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/valerkahere/" style="text-decoration: none;">
@@ -26,7 +28,11 @@
 </p>
 
 <h4 align="center">
-  Looking for a guide on VS code in Git?
+  Looking for a guide on
+  <b>Git Fundamentals</b>
+  applied in 
+  <b>VS Code</b>
+  ?
 </h4>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank">
