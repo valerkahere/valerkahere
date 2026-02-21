@@ -9,7 +9,7 @@
 
 <h4 align="center">
   See my
-  <b>best projects</b>
+  <em>best projects</em>
   on my
 </h4>
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="center">
-  <b>Connect</b> with me on
+  <em>Connect</em> with me on
 </h4>
 <p align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/valerkahere/" style="text-decoration: none;">
@@ -29,9 +29,9 @@
 
 <h4 align="center">
   Looking for a guide on
-  <b>Git Fundamentals</b>
+  <em>Git Fundamentals</em>
   applied in 
-  <b>VS Code</b>
+  <em>VS Code</em>
   ?
 </h4>
 <div align="center">
