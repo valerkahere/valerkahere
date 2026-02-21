@@ -15,7 +15,7 @@ Proud to be
 </h3>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
     <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="See Scrimba Newsletter where my portfolio is featured as Portfolio of the Week" width="60%" />
   </a>
 </div>
