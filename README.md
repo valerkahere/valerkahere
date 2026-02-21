@@ -1,4 +1,4 @@
-## Well, 
+## Well,
 
 <div align="center">
   <a href="https://www.valerkahere.com/">
@@ -7,36 +7,52 @@
 </div>
 
 
-<h4 align="center">
+<h3 align="center">
   See my
   <em>best projects</em>
   on my
-</h4>
+</h3>
 <p align="center">
   <a href="https://www.valerkahere.com/" style="text-decoration: none; width:50%;">
-      <img src="https://img.shields.io/badge/portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/portfolio-FE6E00?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
-<h4 align="center">
+<h3 align="center">
   <em>Connect</em> with me on
-</h4>
+</h3>
 <p align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/valerkahere/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<h4 align="center">
-  Looking for a guide on
+<h3 align="center">
+  Looking to apply
   <em>Git Fundamentals</em>
-  applied in 
+  in 
   <em>VS Code</em>
   ?
-</h4>
+
+  Check out my 1-hour guide below 👇
+</h3>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank">
+  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
     <img style="border-radius:8px;" src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Watch the video" width="60%" />
+  </a>
+</div>
+
+<h3 align="center">
+Proud to be
+<br>
+<a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
+🏆"Portfolio of the Week" Winner at Scrimba🏆
+</a>
+</h3>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
+    <img style="border-radius:8px;" src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="See Scrimba Newsletter where my portfolio is featured as Portfolio of the Week" width="60%" />
   </a>
 </div>
 
@@ -45,7 +61,12 @@
 ## So, who am I?
 <h3 align="center" >Design Engineer | Aspiring Open Source Contributor | Software Development Student</h3>
 
--   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of [GSoC program](https://summerofcode.withgoogle.com/). Recently [my first issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed!*
+
+
+-   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of
+
+- [![Google Summer of Code](https://img.shields.io/badge/GSoC%20Program-F9AB00?style=for-the-badge&logo=googlesummerofcode&logoColor=black)](https://summerofcode.withgoogle.com/)
+- As a result, [my first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
 -   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular!
 -   🎙️ **Work:** A *freelance Interpreter* at Translit, ensuring nothing gets lost in translation.
 -   🌱 **Learning:** Always diving deeper into Front End at [Scrimba](https://scrimba.com/?via=u430bb90), learning how to build modern and accessible UIs, therefore creating satisfying UXs.
@@ -63,17 +84,55 @@ I also believe in *power of free education and software*, which led me to starti
 
 
 ---
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+#302E31
+vercel
 
-### My Tools
+#F38020
 
-| Frontend | Environment & Tools | Desktop Apps |
+
+
+
+Hosting and Domain Configuration
+![Cloudflare](https://img.shields.io/badge/cloudfare-grey?style=for-the-badge&logo=cloudflare&logoColor)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+CSS Frameworks I develop with
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
+![handlebarsdotjs](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+
+
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+### My Tools and Expertise
+
+| Front-end Workflow |  Environment & Tools | Desktop Apps |
 | :--- | :--- | :--- |
-| ![Figma](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | | |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) | |
 | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | | |
+| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge) |
+| ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) | |
+| ![CSS3](https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |  |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)| |
 
 ---
 
