@@ -36,7 +36,7 @@ Proud to be
 </div>
 
 ## So, who am I?
-<h4 align="center" >Design Engineer | Aspiring Open Source Contributor | Software Development Student</h4>
+<h4 align="center" >Front-end Developer / Designer | Aspiring Open Source Contributor | Software Development Student</h4>
 
 
 
