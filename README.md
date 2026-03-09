@@ -40,7 +40,7 @@ Proud to be
 
 
 
--   **Currently:** Looking for opportunities to `build cool sh*t` @Give(a)Go — be it to an **internship**, **full-time work**, or **hackathons**!
+-   **Currently:** Looking for opportunities to `build cool sh*t` @Give(a)Go — be it an **internship**, **full-time work**, or **hackathons**!
 -   💫**Result**: On 7th March I attended [my first hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/), building a fully-fledged *AI-agent for property managers* with my team *in under 5 hours*— resulting in taking one of the winning places.
 -   💻**Contributing to Open Source**: [My first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
 -   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular! I mean, academics is great and stuff, but everyday I am looking to apply my skills to real-world issues — otherwise it's no value for me.
