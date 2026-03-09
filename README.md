@@ -36,13 +36,14 @@ Proud to be
 </div>
 
 ## So, who am I?
-<h4 align="center" >Front-end Developer / Designer | Aspiring Open Source Contributor | Software Development Student</h4>
+<h4 align="center" >Front-end Developer / Designer | Software Engineer </h4>
 
 
 
--   💻 **Currently:** Looking for opportunities for contributing to an Open Source project as a part of [![Google Summer of Code](https://img.shields.io/badge/GSoC%20Program-black?logo=googlesummerofcode&logoColor=F9AB00)](https://summerofcode.withgoogle.com/)
-- 💫**Result**: [my first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
--   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular!
+-   **Currently:** Looking for opportunities to `build cool sh*t` @Give(a)Go — be it to an **internship**, **full-time work**, or **hackathons**!
+-   💫**Result**: On 7th March I attended [my first hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/), building a fully-fledged *AI-agent for property managers* with my team *in under 5 hours*— resulting in taking one of the winning places.
+-   💻**Contributing to Open Source**: [My first Github issue](https://github.com/streetwriters/notesnook/issues/8807) — for Notesnook — *was solved and closed*, contributing to Notesnook development!
+-   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular! I mean, academics is great and stuff, but everyday I am looking to apply my skills to real-world issues — otherwise it's no value for me.
 -   🎙️ **Work:** A *freelance Interpreter* at Translit, ensuring nothing gets lost in translation.
 -   🌱 **Learning:** Always diving deeper into Front End at [Scrimba](https://scrimba.com/?via=u430bb90), learning how to build modern and accessible UIs, therefore creating satisfying UXs.
 
