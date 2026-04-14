@@ -92,11 +92,11 @@ AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input
 ### MovieCollection — Full-Stack MEAN CRUD App
 **`MongoDB` · `Express.js` · `Angular` · `Node.js` · `AWS`**
 
-<!-- 🎬 REPLACE THIS COMMENT with a GIF: demo search + add movie flow:
 <div align="center">
-  <img src="assets/demos/moviecollection-demo.gif" alt="MovieCollection MEAN stack demo" width="80%" />
+  <img src="assets/demos/moviecollection.gif" alt="MovieCollection MEAN stack demo" width="60%" />
 </div>
--->
+
+---
 
 Full-stack web app using the complete MEAN stack. Browse and manage movies against MongoDB's `sample_mflix` dataset. Clean REST API with Angular frontend, deployed with AWS.
 
@@ -107,11 +107,10 @@ Full-stack web app using the complete MEAN stack. Browse and manage movies again
 ### Velouross — Brand Website
 **`Astro` · `Figma` · `HTML/CSS` · `JavaScript`**
 
-<!-- 🎬 REPLACE THIS COMMENT with a GIF: scroll through the homepage to show animations and responsiveness:
 <div align="center">
-  <img src="assets/demos/velouross-demo.gif" alt="Velouross website demo" width="80%" />
+  <img src="assets/demos/velouross.gif" alt="Velouross website demo" width="60%" />
 </div>
--->
+
 
 Figma-to-code in **2 days**. Built from a clean designer prototype via close collaboration — pixel-perfect, production-deployed, and live.
 
