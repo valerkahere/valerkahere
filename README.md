@@ -41,11 +41,11 @@
 
 <div align="center">
 
-  **March 2025 · [View on LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/)**
+  **March 2026 · [View on LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/)**
 
-  My first hackathon. My team built a **fully-fledged AI agent for property managers** — from zero to working demo — in under 5 hours. We placed in the **winning tier**.
+  My first hackathon. My team built a **fully-fledged AI agent for property managers**, from zero to working demo — in under 5 hours. We placed in the **winning tier**.
 
-  That project became [PropertyManagerOS](#-projects).
+  That project became [**PropertyManagerOS**](#projects).
 
 </div>
 
@@ -58,7 +58,7 @@
 - 🎙️ Freelance interpreter at Translit (Ukrainian/Russian ↔ English — courtrooms, tribunals)
 - 📺 YouTuber — making dev education accessible
 
----
+
 
 ## Highlight: Git in VS Code — 1-Hour Beginner Guide
 
@@ -78,9 +78,10 @@
 
 
 <div align="center">
-  <img src="assets/demos/PropertyManagerOS.gif" alt="PropertyManagerOS demo" width="80%" />
+  <img src="assets/demos/PropertyManagerOS.gif" alt="PropertyManagerOS demo" width="60%" />
 </div>
 
+---
 
 AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input**, **live streaming**, and **contractor brief export**. Designed for real property managers to cut response time on maintenance requests.
 
