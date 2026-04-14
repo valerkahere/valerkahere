@@ -76,11 +76,11 @@
 
 > Built at a winning hackathon in under 5 hours, in a team of 3.
 
-<!-- 🎬 REPLACE THIS COMMENT with a GIF: record AutoPilot Mode or Voice Input in action using Kap / ScreenToGif, compress at ezgif.com to under 5MB, then:
+
 <div align="center">
-  <img src="assets/demos/propertymanager-demo.gif" alt="PropertyManagerOS demo" width="80%" />
+  <img src="assets/demos/PropertyManagerOS.gif" alt="PropertyManagerOS demo" width="80%" />
 </div>
--->
+
 
 AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input**, **live streaming**, and **contractor brief export**. Designed for real property managers to cut response time on maintenance requests.
 
