@@ -36,7 +36,7 @@ Proud to be
 </div>
 
 ## So, who am I?
-<h4 align="center" >Front-end Developer / Designer | Software Engineer </h4>
+<h4 align="center" >Full-stack Developer / Designer | Software Engineer </h4>
 
 
 
@@ -45,17 +45,19 @@ Proud to be
 -   💻**Contributing to Open Source**: [My first Github issue](https://github.com/streetwriters/notesnook/issues/8807) for Notesnook *was solved and closed*, contributing to its development!
 -   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular! I mean, academics is great and stuff, but everyday I am looking to apply my skills to real-world issues — otherwise it's no value for me.
 -   🎙️ **Work:** A *freelance Interpreter* at Translit, ensuring nothing gets lost in translation.
--   🌱 **Learning:** Always diving deeper into Front End at [Scrimba](https://scrimba.com/?via=u430bb90), learning how to build modern and accessible UIs, therefore creating satisfying UXs.
+-   🌱 **Learning:** Always diving deeper into Full-stack at [Scrimba](https://scrimba.com/?via=u430bb90), learning how to build modern and accessible UIs, therefore creating satisfying UXs.
 
 ## What I do?
 
-My career is a story of two worlds: 
-- On one hand, I'm a developer *obsessed with building clean, logical, modern UI/UX* for the Web with *Astro* and *Core Web Technologies* (HTML, CSS, JS).
-- On the other, I'm a *professional interpreter* thriving on the precision required in high-stakes legal settings like courtrooms and tribunals.
+Full-stack development with a background in high-stakes interpretation — which means I write **clean code** and **communicate clearly with clients, designers, and teams**. Currently studying Software Development at ATU Sligo while shipping real products.
 
 I believe the same core skills drive success in both fields: a meticulous attention to detail, clarity under pressure, and the ability to bridge complex communication gaps. The only difference is the type of syntax error you're trying to prevent... and its impact :)
 
 I also believe in *power of free education and software*, which led me to starting my own YouTube channel. Open Source is what truly made me who I am know — person aspiring to help others to ultimately become **better, together**.
+
+### Random Thought 🧠
+
+A syntax error in C# gives you a compiler warning. A "syntax error" in a courtroom... well, the consequences are a bit different. It's taught me to be *very* careful with my logic.
 
 
 
@@ -80,23 +82,23 @@ I also believe in *power of free education and software*, which led me to starti
 ### Explore My Work
 
 You'll find my main projects pinned below, but here are the highlights:
-
+- **[PropertyManagerOS — AI Property Operations Dashboard](https://github.com/valerkahere/PropertyManagerOS): AI-powered maintenance triage system with AutoPilot Mode, Voice Input, live streaming, and contractor brief export.**
+- [**MovieCollection**](https://github.com/valerkahere/movie-collection): Full-stack MEAN CRUD web app for searching and adding new movies to MongoDB, using `sample_mflix` dataset
+- [**Velouross CMS**](https://cms.velouross.com/admin/login): Deployed and maintaining a production CMS for a jewellery business — self-hosted on a DigitalOcean VPS via Docker (Directus, PostgreSQL, Redis).
 - [**Velouross — Custom Brand Website**](https://www.velouross.com/): The powerfulness of Figma-to-Code workflow. Clean Figma prototype thanks to close communication with designer: from idea to implementation *in just 2 days*.
--   [**Automated Media File Sorter**](https://github.com/valerkahere/sorter): Tired of a chaotic photo folder? I wrote a powerful Bash script that leverages `ExifTool` to sort thousands of files chronologically in seconds.
--   [**OOP Fleet Management System**](https://github.com/valerkahere/OOP-Fleet-Management-System): An exploration into the depths of Object-Oriented Programming, building a complete vehicle management system from the ground up in C#.
+- [**Automated Media File Sorter**](https://github.com/valerkahere/sorter): Tired of a chaotic photo folder? I wrote a powerful Bash script that leverages `ExifTool` to sort thousands of files chronologically in seconds.
+- [**OOP Fleet Management System**](https://github.com/valerkahere/OOP-Fleet-Management-System): An exploration into the depths of Object-Oriented Programming, building a complete vehicle management system from the ground up in C#.
 
 ---
 
-### Random Thought 🧠
 
-A syntax error in C# gives you a compiler warning. A "syntax error" in a courtroom... well, the consequences are a bit different. It's taught me to be *very* careful with my logic.
 
 ### Links
 
 <h3 align="center">
-  See my
-  <em>best projects</em>
-  on my
+  
+  <em>See the winnning</em>
+
 </h3>
 <p align="center">
   <a href="https://www.valerkahere.com/" style="text-decoration: none; width:50%;">
