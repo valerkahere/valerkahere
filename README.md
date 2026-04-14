@@ -105,12 +105,13 @@ Full-stack web app using the complete MEAN stack. Browse and manage movies again
 ---
 
 ### Velouross — Brand Website
-**`Astro` · `Figma` · `HTML/CSS` · `JavaScript`**
+**`Astro` · `Bootstrap` · `Figma` · `HTML/CSS` · `JavaScript`**
 
 <div align="center">
   <img src="assets/demos/velouross.gif" alt="Velouross website demo" width="60%" />
 </div>
 
+---
 
 Figma-to-code in **2 days**. Built from a clean designer prototype via close collaboration — pixel-perfect, production-deployed, and live.
 
