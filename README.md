@@ -1,125 +1,194 @@
-## Well,
-
 <div align="center">
   <a href="https://www.valerkahere.com/">
-    <img src="assets/logo/logo-gh-both_themes.svg" alt="A personal logo, saying 'valerka is here'. See my portfolio site for updates by clicking the image!" width="50%">
+    <img src="assets/logo/logo-gh-both_themes.svg" alt="valerka is here — portfolio" width="50%">
   </a>
 </div>
 
-<h3 align="center">
-Proud to be
 <br>
-<a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
-🏆"Portfolio of the Week" Winner at Scrimba🏆
-</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Internship%20%7C%20Junior%20Full--Stack-44cc11?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Donegal%2C%20Ireland-0077B5?style=for-the-badge&logoColor=white" />
+</p>
+
+
+<h1 align="center">
+    Full-Stack Developer · UI/UX Enthusiast · Precision Thinker
+</h1>
+
+> Building end-to-end web products — **from Figma prototype to deployed, Dockerised server**.  
+> My background in high-stakes legal interpretation means **I communicate clearly with clients, designers, and teams** — and I write code the same way: precise, unambiguous, and built to be understood.
+
+
+## 🏆 Recognition
+
+<h3 align="center">
+  <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
+    "Portfolio of the Week" — Scrimba Newsletter
+  </a>
 </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="See Scrimba Newsletter where my portfolio is featured as Portfolio of the Week" width="60%" />
+    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="Scrimba Portfolio of the Week" width="60%" />
   </a>
 </div>
 
 <h3 align="center">
-  Looking to apply
-  <em>Git Fundamentals</em>
-  in 
-  <em>VS Code</em>
-  ?
-
-  Check out my 1-hour guide below 👇
+  Hackathon Winner — AI Agent in Under 5 Hours
 </h3>
+
+
+<div align="center">
+
+  **March 2025 · [View on LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/)**
+
+  My first hackathon. My team built a **fully-fledged AI agent for property managers** — from zero to working demo — in under 5 hours. We placed in the **winning tier**.
+
+  That project became [PropertyManagerOS](#-projects).
+
+</div>
+
+
+## Currently
+
+- 📍 Full-time **Software Development student** at ATU Sligo — deep in **.NET MAUI** and **Angular**
+- 🔍 Actively looking for: **internship**, **junior full-stack role**, or **hackathon teams**
+- 💡 Open-source contributor — [my first issue on Notesnook was solved and merged](https://github.com/streetwriters/notesnook/issues/8807)
+- 🎙️ Freelance interpreter at Translit (Ukrainian/Russian ↔ English — courtrooms, tribunals)
+- 📺 YouTuber — making dev education accessible
+
+---
+
+## Highlight: Git in VS Code — 1-Hour Beginner Guide
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
-    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Watch the video" width="60%" />
+    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Git Fundamentals in VS Code — Watch Now" width="60%" />
   </a>
 </div>
 
-## So, who am I?
-<h4 align="center" >Full-stack Developer / Designer | Software Engineer </h4>
 
+## Projects
 
+### PropertyManagerOS — AI Property Operations Dashboard
+**`Flask` · `Node.js` · `Tailwind CSS` · `AI/LLM APIs` · `Voice API`**
 
--   **Currently:** Looking for opportunities to `build cool sh*t` @Give(a)Go — be it an **internship**, **full-time work**, or **hackathons**!
--   💫**Result**: On 7th March I attended my first hackathon, *[building a fully-fledged AI-agent for property managers](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/)* with my team *in under 5 hours* — resulting in taking one of the winning places.
--   💻**Contributing to Open Source**: [My first Github issue](https://github.com/streetwriters/notesnook/issues/8807) for Notesnook *was solved and closed*, contributing to its development!
--   🎓 **Degree:** A full-time *Software Development student* at Atlantic Technological University (ATU) Sligo. Diving deep in .NET MAUI and Angular! I mean, academics is great and stuff, but everyday I am looking to apply my skills to real-world issues — otherwise it's no value for me.
--   🎙️ **Work:** A *freelance Interpreter* at Translit, ensuring nothing gets lost in translation.
--   🌱 **Learning:** Always diving deeper into Full-stack at [Scrimba](https://scrimba.com/?via=u430bb90), learning how to build modern and accessible UIs, therefore creating satisfying UXs.
+> Built at a winning hackathon in under 5 hours, in a team of 3.
 
-## What I do?
+<!-- 🎬 REPLACE THIS COMMENT with a GIF: record AutoPilot Mode or Voice Input in action using Kap / ScreenToGif, compress at ezgif.com to under 5MB, then:
+<div align="center">
+  <img src="assets/demos/propertymanager-demo.gif" alt="PropertyManagerOS demo" width="80%" />
+</div>
+-->
 
-Full-stack development with a background in high-stakes interpretation — which means I write **clean code** and **communicate clearly with clients, designers, and teams**. Currently studying Software Development at ATU Sligo while shipping real products.
+AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input**, **live streaming**, and **contractor brief export**. Designed for real property managers to cut response time on maintenance requests.
 
-I believe the same core skills drive success in both fields: a meticulous attention to detail, clarity under pressure, and the ability to bridge complex communication gaps. The only difference is the type of syntax error you're trying to prevent... and its impact :)
-
-I also believe in *power of free education and software*, which led me to starting my own YouTube channel. Open Source is what truly made me who I am know — person aspiring to help others to ultimately become **better, together**.
-
-### Random Thought 🧠
-
-A syntax error in C# gives you a compiler warning. A "syntax error" in a courtroom... well, the consequences are a bit different. It's taught me to be *very* careful with my logic.
-
-
+**[→ View Repository](https://github.com/valerkahere/PropertyManagerOS)**
 
 ---
 
+### MovieCollection — Full-Stack MEAN CRUD App
+**`MongoDB` · `Express.js` · `Angular` · `Node.js` · `AWS`**
 
-### My Tools & Areas of Expertise
+<!-- 🎬 REPLACE THIS COMMENT with a GIF: demo search + add movie flow:
+<div align="center">
+  <img src="assets/demos/moviecollection-demo.gif" alt="MovieCollection MEAN stack demo" width="80%" />
+</div>
+-->
 
-> [!NOTE]
-> In this table CSS and JS Frameworks columns **are matching**.
-> That is, with Bootstrap for CSS I use Angular for JS, and so on.
+Full-stack web app using the complete MEAN stack. Browse and manage movies against MongoDB's `sample_mflix` dataset. Clean REST API with Angular frontend, deployed with AWS.
 
-| Front-end Workflow | CSS Frameworks | JS Frameworks | Desktop Apps | Environment & Tools |
-| :--- | :--- | :--- | :--- | :--- |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   |
-| ![CSS3](https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white) | ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![handlebarsdotjs](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)   | ![.NET](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge) | ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)|
-| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)|  | | | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)  |
-
----
-
-### Explore My Work
-
-You'll find my main projects pinned below, but here are the highlights:
-- **[PropertyManagerOS — AI Property Operations Dashboard](https://github.com/valerkahere/PropertyManagerOS): AI-powered maintenance triage system with AutoPilot Mode, Voice Input, live streaming, and contractor brief export.**
-- [**MovieCollection**](https://github.com/valerkahere/movie-collection): Full-stack MEAN CRUD web app for searching and adding new movies to MongoDB, using `sample_mflix` dataset
-- [**Velouross CMS**](https://cms.velouross.com/admin/login): Deployed and maintaining a production CMS for a jewellery business — self-hosted on a DigitalOcean VPS via Docker (Directus, PostgreSQL, Redis).
-- [**Velouross — Custom Brand Website**](https://www.velouross.com/): The powerfulness of Figma-to-Code workflow. Clean Figma prototype thanks to close communication with designer: from idea to implementation *in just 2 days*.
-- [**Automated Media File Sorter**](https://github.com/valerkahere/sorter): Tired of a chaotic photo folder? I wrote a powerful Bash script that leverages `ExifTool` to sort thousands of files chronologically in seconds.
-- [**OOP Fleet Management System**](https://github.com/valerkahere/OOP-Fleet-Management-System): An exploration into the depths of Object-Oriented Programming, building a complete vehicle management system from the ground up in C#.
+**[→ View Repository](https://github.com/valerkahere/movie-collection)**
 
 ---
 
+### Velouross — Brand Website
+**`Astro` · `Figma` · `HTML/CSS` · `JavaScript`**
 
+<!-- 🎬 REPLACE THIS COMMENT with a GIF: scroll through the homepage to show animations and responsiveness:
+<div align="center">
+  <img src="assets/demos/velouross-demo.gif" alt="Velouross website demo" width="80%" />
+</div>
+-->
 
-### Links
+Figma-to-code in **2 days**. Built from a clean designer prototype via close collaboration — pixel-perfect, production-deployed, and live.
 
-<h3 align="center">
-  
-  <em>See the winnning</em>
+**[→ Live Site](https://www.velouross.com/)**
 
-</h3>
+---
+
+### Velouross CMS — Production Self-Hosted Backend
+**`Docker` · `Directus` · `PostgreSQL` · `Redis` · `DigitalOcean VPS`**
+
+> Full backend ownership — provisioned, deployed, and maintaining a production CMS.
+
+Self-hosted on DigitalOcean via Docker Compose: Directus CMS + PostgreSQL database + Redis cache. Ongoing maintenance responsibility — this is not a tutorial project.
+
+**[→ CMS Login](https://cms.velouross.com/admin/login)**
+
+---
+
+### Automated Media File Sorter
+**`Bash` · `ExifTool` · `Linux`**
+
+Sorts thousands of media files chronologically in seconds by extracting EXIF metadata. Zero dependencies beyond ExifTool. The kind of tool I built because I actually needed it.
+
+**[→ View Repository](https://github.com/valerkahere/sorter)**
+
+---
+
+###  OOP Fleet Management System
+**`C#` · `.NET` · `OOP Design Patterns`**
+
+Complete vehicle management system built ground-up in C# — exploring inheritance, polymorphism, and encapsulation in a real domain model.
+
+**[→ View Repository](https://github.com/valerkahere/OOP-Fleet-Management-System)**
+
+---
+
+## Stack
+
+### Full-Stack
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript |
+| **Frameworks** | Astro · Angular · Node.js + Express.js |
+| **Styling** | Tailwind CSS · Bootstrap · SASS |
+| **Backend** | Node.js · Express · REST APIs |
+| **Databases** | MongoDB · PostgreSQL · Redis |
+| **Desktop** | C# · .NET · .NET MAUI |
+
+### DevOps & Tooling
+| Area | Technologies |
+| :--- | :--- |
+| **Deploy & Infra** | Docker · DigitalOcean VPS · Vercel |
+| **Dev Tooling** | Git · Linux · GNU Bash · VS Code |
+| **Design** | Figma (design-to-code workflow) |
+| **Media** | OBS Studio |
+
+---
+
+## 🧠 Random Thought
+
+A syntax error in C# gives you a compiler warning.  
+A "syntax error" in a courtroom... the consequences are a bit different.  
+It's taught me to be *very* careful with my logic — in both languages.
+
+---
+
+## 🔗 Links
+
 <p align="center">
-  <a href="https://www.valerkahere.com/" style="text-decoration: none; width:50%;">
-      <img src="https://img.shields.io/badge/portfolio-FE6E00?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://www.valerkahere.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FE6E00?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/valerkahere/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/valerkahere/valerkahere/blob/dev/assets/Valerii-Navalnyi-CV.pdf" download="Valerii-Navalnyi-CV">
+    <img src="https://img.shields.io/badge/Download%20CV-44cc11?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-<h3 align="center">
-  <em>Connect</em> with me on
-</h3>
-<p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/valerkahere/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<h3 align="center">
-  Download my
-</h3>
-<div align="center" style="text-decoration: none;">
-  <a href="https://github.com/valerkahere/valerkahere/blob/dev/assets/Valerii-Navalnyi-CV.pdf" download="Valerii-Navalnyi-CV" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CV-44cc11?style=for-the-badge&logoColor=white" />
-  </a>
-</div>
-
