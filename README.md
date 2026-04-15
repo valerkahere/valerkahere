@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="Scrimba Portfolio of the Week" width="90%" />
+    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="Scrimba Portfolio of the Week" width="80%" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
-    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Git Fundamentals in VS Code — Watch Now" width="90%" />
+    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Git Fundamentals in VS Code — Watch Now" width="80%" />
   </a>
 </div>
 
@@ -78,7 +78,7 @@
 
 
 <div align="center">
-  <img src="assets/demos/PropertyManagerOS.gif" alt="PropertyManagerOS demo" width="90%" />
+  <img src="assets/demos/PropertyManagerOS.gif" alt="PropertyManagerOS demo" width="80%" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input
 **`MongoDB` · `Express.js` · `Angular` · `Node.js` · `AWS`**
 
 <div align="center">
-  <img src="assets/demos/moviecollection.gif" alt="MovieCollection MEAN stack demo" width="90%" />
+  <img src="assets/demos/moviecollection.gif" alt="MovieCollection MEAN stack demo" width="80%" />
 </div>
 
 ---
@@ -108,7 +108,7 @@ Full-stack web app using the complete MEAN stack. Browse and manage movies again
 **`Astro` · `Bootstrap` · `Figma` · `HTML/CSS` · `JavaScript`**
 
 <div align="center">
-  <img src="assets/demos/velouross.gif" alt="Velouross website demo" width="90%" />
+  <img src="assets/demos/velouross.gif" alt="Velouross website demo" width="80%" />
 </div>
 
 ---
