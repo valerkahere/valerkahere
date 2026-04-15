@@ -197,7 +197,7 @@ It's taught me to be *very* careful with my logic — in both languages.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/valerkahere/valerkahere/blob/dev/assets/Valerii-Navalnyi-CV.pdf" download="Valerii-Navalnyi-CV">
+  <a href="https://github.com/valerkahere/valerkahere/blob/main/assets/Valerii-Navalnyi-CV.pdf" download="Valerii-Navalnyi-CV">
     <img src="https://img.shields.io/badge/Download%20CV-44cc11?style=for-the-badge&logoColor=white" />
   </a>
 </p>
