@@ -50,10 +50,12 @@ That project became [**PropertyManagerOS**](#projects).
 
 - 📍 Full-time **Software Development student** at ATU Sligo — deep in **NestJS** and **Angular**
 - 🔍 Actively looking for: **internship**, **junior full-stack role**, or **hackathon teams**
-- 💡 Open-source contributor — I love to give back to great software project which I and the wider community benefit from: 
-   - [my first issue for Notesnook](https://github.com/streetwriters/notesnook/issues/8807) was solved and merged
-   - [My first PR for Directus CMS](https://github.com/directus/directus/commit/dc825546578f256b4de104532b29c24bb3956a3b) was merged by maintainers
-   - [Opened another issue](https://github.com/directus/directus/issues/27678) for Directus
+- 💡 Open-source contributor — I love to give back to great software project which I and the wider community benefit from:
+  - [my first issue for Notesnook](https://github.com/streetwriters/notesnook/issues/8807) was solved
+   - for Directus:
+      - [My first PR for Directus CMS](https://github.com/directus/directus/commit/dc825546578f256b4de104532b29c24bb3956a3b) was merged by maintainers
+      - [Opened another issue](https://github.com/directus/directus/issues/27678)
+      - Proceeded to solve it, the [Vue.js layout bug](https://github.com/directus/directus/pull/27681)
 - 🎙️ Freelance interpreter at Translit (Ukrainian/Russian ↔ English — courtrooms, tribunals)
 - 📺 YouTuber — making dev education accessible
 
