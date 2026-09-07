@@ -12,68 +12,21 @@
 </p>
 
 <h1 align="center">
-    Full-Stack Developer · UI/UX Enthusiast · Precision Thinker
+    Full-Stack Developer · UI/UX Enthusiast
 </h1>
 
-> Building end-to-end web products — **from Figma prototype to deployed, Dockerised server**.  
-> My background in high-stakes legal interpretation means **I communicate clearly with clients, designers, and teams** — and I write code the same way: precise, unambiguous, and built to be understood.
+> I am building web products end-to-end  — **from Figma prototype to deployed, Dockerised server**. Ready to apply my work ethic to solving business IT problems, be it a bespoke website, an internal dashboard, or a backup system.
 
-## 🏆 Recognition
+> My 2-year experience in legal interpretation taught me to **communicate clearly with clients, designers, and teams**. I catch the details in the requirements, perfecting and perfecting the spec, because *practice makes perfect* and the spec (i.e what you want software to do) is Source of Truth.
 
-<h3 align="center">
-  <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
-    "Portfolio of the Week" — Scrimba Newsletter
-  </a>
-</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="Scrimba Portfolio of the Week" width="80%" />
-  </a>
-</div>
-
-<h3 align="center">
-  Hackathon Winner — AI Agent in Under 5 Hours
-</h3>
-
-<div align="center">
-
-**March 2026 · [View on LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/)**
-
-My first hackathon. My team built a **fully-fledged AI agent for property managers**, from zero to working demo — in under 5 hours. We placed in the **winning tier**.
-
-That project became [**PropertyManagerOS**](#projects).
-
-</div>
-
-## Currently
-
-- 📍 Full-time **Software Development student** at ATU Sligo — deep in **NestJS** and **Angular**
-- 🔍 Actively looking for: **internship**, **junior full-stack role**, or **hackathon teams**
-- 💡 Open-source contributor — I love to give back to great software project which I and the wider community benefit from:
-  - [my first issue for Notesnook](https://github.com/streetwriters/notesnook/issues/8807) was solved
-   - for Directus:
-      - [My first PR for Directus CMS](https://github.com/directus/directus/commit/dc825546578f256b4de104532b29c24bb3956a3b) was merged by maintainers
-      - [Opened another issue](https://github.com/directus/directus/issues/27678)
-      - Proceeded to solve it, the [Vue.js layout bug](https://github.com/directus/directus/pull/27681)
-- 🎙️ Freelance interpreter at Translit (Ukrainian/Russian ↔ English — courtrooms, tribunals)
-- 📺 YouTuber — making dev education accessible
-
-## Highlight: Git in VS Code — 1-Hour Beginner Guide
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
-    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Git Fundamentals in VS Code — Watch Now" width="80%" />
-  </a>
-</div>
+> Since nowadays we more often consider not *"how"* to build something, but *"what"* problem to solve.
 
 ## Projects
 
-### PropertyManagerOS — AI Property Operations Dashboard
+### PropertyManagerOS — March 2026 Hackathon Winner
 
-**`Flask` · `Node.js` · `Tailwind CSS` · `AI/LLM APIs` · `Voice API`**
+**`Flask` · `SQLite` · `Node.js` · `Tailwind CSS` · `AI/LLM APIs` · `Voice API`**
 
-> Built at a winning hackathon in under 5 hours, in a team of 3.
 
 <div align="center">
   <img src="assets/demos/PropertyManagerOS.gif" alt="PropertyManagerOS demo" width="80%" />
@@ -81,15 +34,18 @@ That project became [**PropertyManagerOS**](#projects).
 
 ---
 
-AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input**, **live streaming**, and **contractor brief export**. Designed for real property managers to cut response time on maintenance requests.
+Property Managers **get thousands of tenants requests per week**. It was my first hackathon, where we built a triage maintenance platform, which cut the response time and mental burden on those simple template emails like "When are my bins taken out?". **From zero to working demo — in 5 hours**.
+- It features **AI-response generation**, **dashboard overview**, **AutoPilot Mode**, **Voice Input** and **live streaming**.
+- For the prototype, backend built in Flask, frontend in HTML, JS, Tailwind, and SQLite for data storage.
+- **We secured one of the winning spots.** View the Linkedin post to find out more.
 
-**[→ View Repository](https://github.com/valerkahere/PropertyManagerOS)**
+**[View Repository](https://github.com/valerkahere/PropertyManagerOS) · [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7436722049613561856/)**
 
 ---
 
 ### MovieCollection — Full-Stack MEAN CRUD App
 
-**`MongoDB` · `Express.js` · `Angular` · `Node.js` · `AWS`**
+**`MEAN` · `MongoDB` · `Express.js` · `Angular` · `Node.js` · `AWS`**
 
 <div align="center">
   <img src="assets/demos/moviecollection.gif" alt="MovieCollection MEAN stack demo" width="80%" />
@@ -97,9 +53,9 @@ AI-powered maintenance triage system featuring **AutoPilot Mode**, **Voice Input
 
 ---
 
-Full-stack web app using the complete MEAN stack. Browse and manage movies against MongoDB's `sample_mflix` dataset. Clean REST API with Angular frontend, deployed with AWS.
+Full-stack web app using the complete MEAN stack. Browse and manage movies against MongoDB's `sample_mflix` dataset. Clean REST API with Angular frontend, deployed on AWS.
 
-**[→ View Repository](https://github.com/valerkahere/movie-collection)**
+**[ View Repository](https://github.com/valerkahere/movie-collection)**
 
 ---
 
@@ -113,9 +69,11 @@ Full-stack web app using the complete MEAN stack. Browse and manage movies again
 
 ---
 
-Figma-to-code in **2 days**. Built from a clean designer prototype via close collaboration — pixel-perfect, production-deployed, and live.
+Built via close collaboration, with a designer. First in figma, then in code, by me. My figma-to-code structured workflow **achieved the result which made all stakeholders happy, without any rework**.  
 
-**[→ Live Site](https://www.velouross.com/)**
+*The 1-10-100 Cost of Quality Rule* at its best. It's cheaper to fix inconsistencies in design early on, rather than in the codebase.
+
+**[ Live Site](https://www.velouross.com/)**
 
 ---
 
@@ -123,11 +81,12 @@ Figma-to-code in **2 days**. Built from a clean designer prototype via close col
 
 **`Docker` · `Directus` · `PostgreSQL` · `Redis` · `DigitalOcean VPS`**
 
-> Full backend ownership — provisioned, deployed, and maintaining a production CMS.
+ Full backend ownership — provisioned, deployed, and maintained a production CMS.
 
-Self-hosted on DigitalOcean via Docker Compose: Directus CMS + PostgreSQL database + Redis cache. Ongoing maintenance responsibility — this is not a tutorial project.
+- **Self-hosted on DigitalOcean via Docker Compose:** Directus CMS + PostgreSQL database + Redis cache. 
+- **Configured Linux server:** Firewall Rules, SSH access, weekly updates, cron jobs, telegram notifications, new user creation, bot protection. 
+- **Successfully Performed backup restore testing:** proved the system reliability with business data safe.
 
-**[→ CMS Login](https://cms.velouross.com/admin/login)**
 
 ---
 
@@ -137,7 +96,7 @@ Self-hosted on DigitalOcean via Docker Compose: Directus CMS + PostgreSQL databa
 
 Sorts thousands of media files chronologically in seconds by extracting EXIF metadata. Zero dependencies beyond ExifTool. The kind of tool I built because I actually needed it.
 
-**[→ View Repository](https://github.com/valerkahere/sorter)**
+**[ View Repository](https://github.com/valerkahere/sorter)**
 
 ---
 
@@ -145,9 +104,45 @@ Sorts thousands of media files chronologically in seconds by extracting EXIF met
 
 **`C#` · `.NET` · `OOP Design Patterns`**
 
-Complete vehicle management system built ground-up in C# — exploring inheritance, polymorphism, and encapsulation in a real domain model.
+Complete vehicle management system built ground-up in C# — exploring inheritance, polymorphism, and encapsulation on an extensive domain model.
 
-**[→ View Repository](https://github.com/valerkahere/OOP-Fleet-Management-System)**
+**[ View Repository](https://github.com/valerkahere/OOP-Fleet-Management-System)**
+
+
+<h3 align="left">
+  <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
+    "Portfolio of the Week" — Scrimba Newsletter Recognition
+  </a>
+</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/images/valerkahere-featured-on-Scrimba-newsletter.png" alt="Scrimba Portfolio of the Week" width="80%" />
+  </a>
+</div>
+
+Portfolio is no feat of a project :D but damn, I like my custom colour scheme, and it seems like Scrimba does, too. There is still a long way to go, though!
+
+## Currently, more about me
+
+- 📍 Full-time **Software Development student** at ATU Sligo — deep in **NestJS** and **Angular**
+- 🔍 Actively looking for: **internship**, **junior full-stack role**, or **hackathon teams**
+- 💡 Open-source contributor — I love to give back to great software project which I and the wider community benefit from:
+  - [my first issue for Notesnook](https://github.com/streetwriters/notesnook/issues/8807) was solved
+   - for Directus:
+      - [My first PR for Directus CMS](https://github.com/directus/directus/commit/dc825546578f256b4de104532b29c24bb3956a3b) was merged by maintainers
+      - [Opened another issue](https://github.com/directus/directus/issues/27678)
+      - Proceeded to solve it, the [Vue.js layout bug](https://github.com/directus/directus/pull/27681)
+- 🎙️ Freelance interpreter at Translit (Ukrainian/Russian ↔ English — courtrooms, tribunals)
+- 📺 YouTuber, making dev education a wee bit more accessible
+
+## Highlight: Git in VS Code — 1-Hour Beginner Guide (a bit of my video-making hobby)
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=5CC9J3TLjT4" target="_blank" rel="noopener noreferrer">
+    <img src="assets/images/Thumbnail_UltimateGuide_GitInVSCode_ForBeginners.png" alt="Git Fundamentals in VS Code — Watch Now" width="80%" />
+  </a>
+</div>
+
 
 ## Stack
 
@@ -171,20 +166,11 @@ Complete vehicle management system built ground-up in C# — exploring inheritan
 | **Design**         | Figma (design-to-code workflow)  |
 | **Media**          | OBS Studio                       |
 
-## 🧠 Random Thought
+## Random Thought
 
 A syntax error in C# gives you a compiler warning.  
-A "syntax error" in a courtroom... the consequences are a bit different.  
-It's taught me to be _very_ careful with my logic — in both languages.
-
-## Some Stats👀
-
-<div align="center">
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=valerkahere&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de valerkahere" width="466" height="auto" loading="lazy" /></a>
-
-<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=valerkahere&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
-
-</div>
+A "syntax error" in a courtroom... well the consequences are a bit different.  
+It's taught me to be _very_ careful with my logic, in both languages...
 
 ## 🔗 Links
 
