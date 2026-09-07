@@ -108,6 +108,7 @@ Complete vehicle management system built ground-up in C# — exploring inheritan
 
 **[ View Repository](https://github.com/valerkahere/OOP-Fleet-Management-System)**
 
+---
 
 <h3 align="left">
   <a href="https://www.linkedin.com/pulse/big-week-packed-updates-scrimba-2bomf/" target="_blank" rel="noopener noreferrer">
