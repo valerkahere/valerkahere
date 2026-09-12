@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">
-    Full-Stack Developer · Linux & UX/UI Enthusiast
+    Full-Stack Developer · Linux, Docker & Cloud Infrastructure
 </h1>
 
 > I am building web products end-to-end  — **from Figma prototype to deployed, Dockerised server**. Ready to apply my work ethic to solving business IT problems, be it a bespoke website, an internal dashboard, or a backup system.
